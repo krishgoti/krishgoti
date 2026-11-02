@@ -1,10 +1,14 @@
 
-# Krish Goti
+<div align="center">
 
-Java Developer | Backend Engineering
+# KRISH GOTI
 
-I build backend applications using Java and Spring Boot.
+### Java Developer · Backend Engineering
 
-**Tech Stack:** Java · Spring Boot · REST APIs · MySQL · Git
+Building reliable backend applications with Java and Spring Boot.
 
-[GitHub](https://github.com/krishgoti)
+**Java** · **Spring Boot** · **REST APIs** · **MySQL** · **Git**
+
+[GitHub Profile](https://github.com/krishgoti)
+
+</div>
