@@ -1,14 +1,47 @@
 
 <div align="center">
 
-# KRISH GOTI
+# Krish Goti
 
-### Java Developer · Backend Engineering
+### Java Developer | Backend Engineer
 
-Building reliable backend applications with Java and Spring Boot.
+*Turning ideas into reliable, scalable software.*
 
-**Java** · **Spring Boot** · **REST APIs** · **MySQL** · **Git**
+I build backend applications and RESTful APIs with a focus on clean code,
+efficient problem-solving, and practical software development.
 
-[GitHub Profile](https://github.com/krishgoti)
+**Java · Spring Boot · REST APIs · MySQL · Docker**
+
+[GitHub](https://github.com/krishgoti)
+
+</div>
+
+---
+
+### About Me
+
+- Focused on Java backend development and application design.
+- Building practical projects using Spring Boot and relational databases.
+- Strengthening Data Structures & Algorithms and problem-solving skills.
+- Exploring backend architecture and system design.
+
+### Technologies
+
+- **Languages:** Java, C++, Python, JavaScript, PHP
+- **Backend:** Spring Boot, REST APIs, PHP MVC, FastAPI
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, GitHub, Docker
+
+### Featured Projects
+
+**UniHelp** — An AI-powered career and placement guidance platform.
+
+**Smart Expense Tracker** — An expense management application built with Java, Spring Boot, and MySQL.
+
+---
+
+<div align="center">
+
+*Learn continuously. Build thoughtfully. Improve consistently.*
 
 </div>
