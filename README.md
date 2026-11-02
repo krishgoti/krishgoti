@@ -3,16 +3,13 @@
 
 # KRISH GOTI
 
-### Java Developer | Backend Engineer
+### Java Developer | Backend Engineer | Full-Stack Developer
 
 Building reliable backend applications with clean code,
 efficient APIs, and practical problem-solving.
 
 <br/>
 
-<a href="https://github.com/krishgoti">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
 
@@ -35,7 +32,7 @@ and improving my problem-solving skills through DSA.
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=java,spring,cpp,python,php,js,mysql,postgres,docker,git,github&theme=dark" alt="Technologies"/>
+<img src="https://skillicons.dev/icons?i=java,spring,cpp,python,php,js,mysql,postgres,docker,git,github&theme=dark" alt="Technology icons"/>
 
 </div>
 
